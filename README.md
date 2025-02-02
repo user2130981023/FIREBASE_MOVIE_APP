@@ -15,6 +15,11 @@ This is an [Expo](https://expo.dev) project
    ```bash
     npx expo start
    ```
+3. You will need to navigate to [firebase](https://console.firebase.google.com/)
+
+4. Go to your project settings (make sure it is a web app) and scroll down until you see [this](https://imgur.com/a/BYSXNXe)
+
+5. fill in your details in the firebaseConfig.js and you will be able to login and logout once that feature is implemented in the near future!
 
 In the output, you'll find options to open the app in a
 
